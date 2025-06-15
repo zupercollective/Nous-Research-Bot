@@ -26,7 +26,7 @@ Syarat menjalankan bot
 - API Key. Kalau belum buat dulu [keynya](https://portal.nousresearch.com/api-keys)
 
 > [!TIP]
-> Kami menggunakan Digital Ocean dengan speksifikasi `Singapore/ 1 Core/ 1 GB RAM/ 80 GB SSD`. Jika kamu membutuhkan VPS, kami memiliki link gratis credit VPS DigitalOcean sebesar $200. Cukup untuk menjalankan XXX selama XX . Daftar sekarang dengan [link utama]([link_reff_do_kamu](https://m.do.co/c/497333605c2e) untuk mendapatkannya.
+> Kami menggunakan Digital Ocean dengan speksifikasi `Singapore/ 1 Core/ 1 GB RAM/ 80 GB SSD`. Jika kamu membutuhkan VPS, kami memiliki link gratis credit VPS DigitalOcean sebesar $200. Cukup untuk menjalankan bot sampe mokad wkwkwk. Daftar sekarang dengan [link utama]([link_reff_do_kamu](https://m.do.co/c/497333605c2e) untuk mendapatkannya.
   
 ## Dependencies
 

@@ -44,10 +44,11 @@ git pull https://github.com/zupercollective/Nous-Research-Bot.git
 nano conversation.py
 ```
 
-### Adjust API Key dan Model 
+### Adjust API Key,  Model dan User Prompt 
 ```
 API_KEY = "masukkan_api_key"  # Ubah dengan API key milik kamu
 MODEL = "masukkan_model" # Pilih model yang ingin kamu gunakan.
+"content": "What do you think about Indonesia?" # Update pertanyaan sesuai keinginan
 ```
 
 Jangan lupa disave. Control + X

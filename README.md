@@ -1,4 +1,4 @@
-Penulis: [luthfi0x]([link_twt](https://x.com/luthfi0x)
+Penulis: [luthfi0x](https://x.com/luthfi0x)
 
 # Pengenalan
 Bab ini berisi pengenalan mengenai Nous Research

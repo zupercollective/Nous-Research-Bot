@@ -72,13 +72,13 @@ def chat_loop():
         {
             "role": "system",
             "content": (
-                "You are a deep thinking AI. You may use extremely long chains of thought "
+                "You are a deep thinking AI. You may use extremely long chains of thought "  # You can update the system prompt as you wish
                 "and enclose your internal thoughts in <think> </think> tags."
             )
         },
         {
             "role": "user",
-            "content": "What do you think about Indonesia?"
+            "content": "What do you think about Indonesia?" # You can replace the user prompt as you wish
         }
     ]
 
